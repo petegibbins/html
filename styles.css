@@ -1,0 +1,10 @@
+p {
+    background: orange;
+    font-size: 24px;
+  }
+
+div.para1 {
+        font-size: 24px;
+        text-align: center;
+        border: 3px solid #73AD21;
+    }
