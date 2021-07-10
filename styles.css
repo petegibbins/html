@@ -8,3 +8,8 @@ div.para1 {
         text-align: center;
         border: 3px solid #73AD21;
     }
+
+h1 {
+  font-size: 48px;
+  color: red;
+}
